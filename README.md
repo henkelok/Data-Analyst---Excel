@@ -3,17 +3,14 @@ CODIVY CONSULTING'S DATA ANALYTIC INTERNSHIP PROGRAM
 Task: 
 Excel Data Analysis
 
-1. Monthly Crude Oil Production Trends
-Analyze monthly trends in crude oil production over the last ten years.
+1. Monthly Crude Oil Production Trends: Analyze monthly trends in crude oil production over the last ten years.
 
-2. LPG Imports and Exports Comparison
-Compare LPG imports and exports by country and year.
+2. LPG Imports and Exports Comparison: Compare LPG imports and exports by country and year.
    
-3. Refinery Output Growth Analysis
-Calculate the compound annual growth rate (CAGR) of total oil products' refinery output over a decade.
+3. Refinery Output Growth Analysis: Calculate the compound annual growth rate (CAGR) of total oil products' refinery output over a decade.
 
 4. Correlation and Regression Analysis
-Perform advanced correlation and regression analysis between refinery intake and production output.
+   Perform advanced correlation and regression analysis between refinery intake and production output.
 
 5. Seasonal Variation Cluster Analysis
 Conduct a cluster analysis on the seasonal variation in stock change of gas/diesel oil.
